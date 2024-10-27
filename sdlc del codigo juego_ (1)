@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="Página-1" id="HDdUfMWLw8avRQ-l000F">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VQaGV7Ltf2Zd_6wLMz1_-1" target="VQaGV7Ltf2Zd_6wLMz1_-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="80" />
+              <mxPoint x="320" y="120" />
+              <mxPoint x="80" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VQaGV7Ltf2Zd_6wLMz1_-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="120" />
+              <mxPoint x="560" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VQaGV7Ltf2Zd_6wLMz1_-1" target="VQaGV7Ltf2Zd_6wLMz1_-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="50.111111111111086" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VQaGV7Ltf2Zd_6wLMz1_-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VQaGV7Ltf2Zd_6wLMz1_-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-1" value="SDLC&lt;div&gt;&amp;nbsp;Dragongamer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="20" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VQaGV7Ltf2Zd_6wLMz1_-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-3" value="Análisis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-7" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Permitir a los jugadores crear personajes con habilidades y atributos únicos.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Dejar que cada personaje adopte un dragón.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Ofrecer opciones de combate como atacar, defenderse, curarse y usar habilidades especiales.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Incluir detalles interesantes como características especiales de cada dragón, retos con tiempo, eventos que cambian y diferentes entornos.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;El juego debe ser rápido y responder bien durante las peleas.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;La interfaz (cómo se ve y se usa) tiene que ser fácil y atractiva.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry y="215" width="180" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.62" y="120" as="sourcePoint" />
+            <mxPoint x="319.62" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="VQaGV7Ltf2Zd_6wLMz1_-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="259.6923076923076" y="149.8461538461538" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VQaGV7Ltf2Zd_6wLMz1_-11" target="VQaGV7Ltf2Zd_6wLMz1_-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-11" value="Diseño" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-15" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Definir cómo guardaremos la información de personajes y dragones. Usaremos Java para conectarnos a una base de datos.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Crear clases en Java que representen los personajes y dragones.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Definir cómo se llevarán a cabo los combates y cómo influirán las habilidades de cada personaje y dragón.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="230" y="215" width="180" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VQaGV7Ltf2Zd_6wLMz1_-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-17" value="Desarrollo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-20" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Programar en Java cómo funcionarán las peleas, cómo se gestionarán las habilidades y atributos de los dragones.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Conectar el juego a la base de datos para guardar y cargar información.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Integración de la Base de Datos:&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Crear la base de datos donde guardaremos todo: personajes, dragones y datos de cada pelea.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Programar las acciones de combate (atacar, defender, curarse, usar habilidades) en clases de Java que digan qué hacen los personajes y dragones.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="215" width="210" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VQaGV7Ltf2Zd_6wLMz1_-24" target="VQaGV7Ltf2Zd_6wLMz1_-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-24" value="Pruebas&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="35" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;verificar que cada parte del juego funcione bien por separado, como crear personajes y usar las habilidades.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Asegurarse de que todo funcione bien junto, que las peleas se manejan correctamente.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&amp;nbsp;Verificar que el juego funcione sin problemas.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-21.25" width="230" height="142.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VQaGV7Ltf2Zd_6wLMz1_-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-28" value="Mantenimiento&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="35" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-30" value="&lt;div&gt;•&amp;nbsp;Solucionar cualquier problema que los jugadores encuentren después de que el juego esté en línea.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;•Actualizaciones: Añadir nuevas cosas al juego, como nuevos dragones, habilidades o entornos.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="-30" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VQaGV7Ltf2Zd_6wLMz1_-32" target="VQaGV7Ltf2Zd_6wLMz1_-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-32" value="Implementación" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-50" width="105" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="VQaGV7Ltf2Zd_6wLMz1_-34" value="&lt;ul&gt;&lt;li&gt;Compilar el juego y crear los archivos que se necesiten para que funcione.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="213.75" y="-150" width="197.5" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
